@@ -1,6 +1,6 @@
 \header {
-  title = "Untitled"
-  composer = "Composer"
+  title = "177 Mon Ame En Silence - I-ii Coupling"
+  composer = "Nate"
 }
 
 upper = \relative d' {
@@ -48,7 +48,6 @@ upper = \relative d' {
   <d a fis>2.
   r4
 
-
 }
 
 
@@ -56,6 +55,23 @@ lower = \relative c {
   \clef bass
   \key d \major
   \time 4/4 
+
+  %measure 1
+  d4. b8 a4 e'4
+  %measure 2
+  d4
+  %measure 3
+
+  %measure 4
+
+  %measure 5
+
+  %measure 6
+
+  %measure 7
+
+  %measure 8
+
 }
 
 \score{
