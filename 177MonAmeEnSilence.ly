@@ -36,7 +36,7 @@ lower = \relative c {
   \time 4/4 
 
   %intro 
-  
+  fis4.
   %measure 1
 
   %measure 2
