@@ -30,7 +30,7 @@ upper = \relative d' {
 }
 
 
-lower = \relative c {
+lower = \relative d {
   \clef bass
   \key d \major
   \time 4/4 
